@@ -50,7 +50,7 @@ Como o ESP32 expõe uma interface web de gerenciamento, é recomendável:
 
 ## 📄 Licença
 
-Defina aqui a licença do projeto (por exemplo: MIT).
+MIT
 
 ---
 
